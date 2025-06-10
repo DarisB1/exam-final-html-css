@@ -63,6 +63,7 @@ hgroup {
     justify-content: center;
     gap: 16px;
     background-color: #fff;
+    padding: 5px;
 }
 
 h1 {
